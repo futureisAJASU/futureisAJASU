@@ -1,7 +1,13 @@
 ## 😊About me!
 
+AJASU means Architecture is Just an Awesome Silicon for Us
 
+16 y/o Korean high school student **:kr:**
 
+Still dont know about anything😭 but im learning and improving
+
+I really wanna apply Samsung later and I really like Samsung personally!
+I'm thinking about strategy and stuffs for Samsung all day lol😂
 
 
 ## 🛠️ Current Research & Projects
