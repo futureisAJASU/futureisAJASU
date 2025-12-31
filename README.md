@@ -1,20 +1,24 @@
 ## 🛠️ Current Research & Projects
 
-### [Micro-Core Architecture] 🧠
+### [Little Core Optimization] 🧠
 
-Designing independent CPU core logic applying 5M-strat.
+High-efficiency core design focusing on power-to-performance ratio with 5M-strat.
 
-### [HBM3E/4 Strategy & Tech] 💾
+### [HBM Strategy & Tech] 💾
 
-Yield optimization and thermal management for Samsung HBM.
+Yield optimization and thermal management for HBM and hybrid bonding.
 
-### [Little Core Optimization] ⚡
+### [UI only micro-core] ⚡
 
-High-efficiency core design focusing on power-to-performance ratio.
+micro-core design and strategy only work for UI/OS processes.
 
 ### [Exynos Market Strategy] 📱
 
 Analyzing Samsung’s foundry yield and brand value enhancement.
+
+### [Fountry tech] ⚡
+
+Learning and analyzing foundry's technologys like lithography, Etch, Epitaxy, etc.
 
 <!--
 **futureisAJASU/futureisAJASU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
