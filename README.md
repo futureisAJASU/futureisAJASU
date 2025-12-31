@@ -4,10 +4,12 @@ AJASU means Architecture is Just an Awesome Silicon for Us
 
 16 y/o Korean high school student **:kr:**
 
-Still dont know about anything😭 but im learning and improving
+📚 Passionate learner constantly exploring the depths of semiconductor architecture.
+💙 Samsung Enthusiast: My ultimate goal is to join Samsung Electronics. 
+💭 Spent my days strategizing and dreaming about the future of Samsung's technology.
 
-I really wanna apply Samsung later and I really like Samsung personally!
-I'm thinking about strategy and stuffs for Samsung all day lol😂
+Still dont know about anything😭 but im learning and improving!
+
 
 
 ## 🛠️ Current Research & Projects
@@ -28,9 +30,20 @@ micro-core design and strategy only work for UI/OS processes.
 
 Analyzing Samsung’s foundry yield and brand value enhancement.
 
-### [Fountry tech] ⚡
+### [Fountry tech] 🚀
 
-Learning and analyzing foundry's technologys like lithography, Etch, Epitaxy, etc.
+Learning and analyzing semiconductor manufacturing (Lithography, Etch, Epitaxy, etc.).
+
+### [Broad Tech Analysis] 💻
+
+Tracking trends in Mobile, Audio, Power systems, CIS, Optics, Quantum Mechanics and more...
+
+## 📬 Get in Touch!
+
+If you have any questions or just want to talk about semiconductors, feel free to reach out!
+
+- 💬 **GitHub Issues**: Open a new issue for any technical discussions!
+- 📧 **Email**: [junyoung090928@gmail.com] (Check occasionally)
 
 <!--
 **futureisAJASU/futureisAJASU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
