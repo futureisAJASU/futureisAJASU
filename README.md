@@ -45,6 +45,8 @@ If you have any questions or just want to talk about semiconductors, feel free t
 - 💬 **GitHub Issues**: Open a new issue for any technical discussions!
 - 📧 **Email**: [junyoung090928@gmail.com] (Check occasionally)
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FfutureisAJASU%2FfutureisAJASU&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 <!--
 **futureisAJASU/futureisAJASU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
