@@ -1,3 +1,9 @@
+## 😊About me!
+
+
+
+
+
 ## 🛠️ Current Research & Projects
 
 ### [Little Core Optimization] 🧠
