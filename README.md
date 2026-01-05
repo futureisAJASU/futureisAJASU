@@ -8,7 +8,7 @@ AJASU means Architecture is Just an Awesome Silicon for Us
 💙 Samsung Enthusiast: My ultimate goal is to join Samsung Electronics.   
 💭 Spent my days strategizing and dreaming about the future of Samsung's technology.  
 
-Still dont know about anything😭 but im learning and improving!
+Still don't know about anything 😭 but i'm learning and improving!
 
 
 
