@@ -28,7 +28,7 @@ micro-core design and strategy only work for UI/OS processes.
 
 ### [Exynos Market Strategy] 📱
 
-Analyzing Samsung’s foundry yield and brand value enhancement.
+Analyzing Samsung foundry's yield and brand value enhancement.
 
 ### [Fountry tech] 🚀
 
