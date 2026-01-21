@@ -30,7 +30,7 @@ micro-core design and strategy only work for UI/OS processes.
 
 Analyzing Samsung foundry's yield and brand value enhancement.
 
-### [Fountry tech] 🚀
+### [Foundry tech] 🚀
 
 Learning and analyzing semiconductor manufacturing (Lithography, Etch, Epitaxy, etc.).
 
