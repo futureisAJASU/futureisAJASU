@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="100%" src="https://raw.githubusercontent.com/futureisAJASU/futureisAJASU/main/cards/ai-usage-combo.svg" alt="AI usage" />
+<img width="100%" src="https://raw.githubusercontent.com/futureisAJASU/futureisAJASU/main/cards/ai-usage-combo.svg?v=1" alt="AI coding usage" />
