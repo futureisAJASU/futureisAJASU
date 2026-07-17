@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 -->
 
 ## avg vibe-coder vibe 😭
-<img width="100%" src="https://raw.githubusercontent.com/futureisAJASU/futureisAJASU/main/cards/ai-usage-combo.svg?v=1" alt="AI coding usage" />
-<img width="100%" src="https://raw.githubusercontent.com/futureisAJASU/futureisAJASU/main/cards/ai-usage-full.svg?v=3" alt="AI coding usage" />
+<img width="100%" src="https://raw.githubusercontent.com/futureisAJASU/futureisAJASU/main/cards/ai-usage-combo.svg?v=4" alt="AI coding usage" />
+<img width="100%" src="https://raw.githubusercontent.com/futureisAJASU/futureisAJASU/main/cards/ai-usage-full.svg?v=4" alt="AI coding usage" />
