@@ -1,7 +1,5 @@
 ## 😊About me!
 
-AJASU means Architecture is Just an Awesome Silicon for Us
-
 17 y/o Korean high school student **:kr:**  
 
 📚 Passionate learner constantly exploring the depths of semiconductor architecture.  
