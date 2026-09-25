@@ -2,7 +2,7 @@
 
 AJASU means Architecture is Just an Awesome Silicon for Us
 
-16 y/o Korean high school student **:kr:**  
+17 y/o Korean high school student **:kr:**  
 
 📚 Passionate learner constantly exploring the depths of semiconductor architecture.  
 💙 Samsung Enthusiast: My ultimate goal is to join Samsung Electronics.   
