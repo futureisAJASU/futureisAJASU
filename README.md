@@ -1,6 +1,6 @@
 ## 😊About me!
 
-17 y/o Korean high school student **:kr:**  
+Korean school student **:kr:**  
 
 📚 Passionate learner constantly exploring the depths of semiconductor architecture.  
 💙 Samsung Enthusiast: My ultimate goal is to join Samsung Electronics.   
